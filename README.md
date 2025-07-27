@@ -1,3 +1,3 @@
 # Test
 
-Testing repository
+Testing repository.
